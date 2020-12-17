@@ -1,0 +1,3 @@
+[submodule "watarona/my-theme"]
+	path = watarona/my-theme
+	url = https://github.com/watarona/my-theme.git
